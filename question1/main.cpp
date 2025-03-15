@@ -6,7 +6,7 @@
 
 
 int main() {
-    std::ifstream is("../graph.txt");
+    std::ifstream is("../question1/graph.txt");
     if (!is) {
         std::cerr << "Unable to open file graph.txt" << std::endl;
         return 1;

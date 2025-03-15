@@ -1,3 +1,6 @@
 # ninja log v6
-27	1006	7636737021652805	CMakeFiles/untitled.dir/main.cpp.obj	b1ad02779eabca59
 1007	1162	7636737031449517	untitled.exe	2274639e333a8a89
+3	930	7637219406843127	CMakeFiles/untitled.dir/question1/main.cpp.obj	47e22a7905c4f7b
+932	1253	7637219416129749	untitled.exe	6de8810d9c5f1503
+6	991	7637219563947390	CMakeFiles/untitled.dir/question1/main.cpp.obj	47e22a7905c4f7b
+992	1131	7637219573809107	untitled.exe	6de8810d9c5f1503
